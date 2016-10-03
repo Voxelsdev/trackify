@@ -1,0 +1,16 @@
+{
+  "name": "trackify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tyler Miller <tylermillerhome@gmail.com>",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "knex": "^0.12.2",
+    "pg": "^6.1.0"
+  }
+}
